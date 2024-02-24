@@ -109,12 +109,12 @@ cv2.destroyAllWindows()
 </br>
 
 ### ii) Display the video
-<img width="960" alt="Screenshot 2024-02-24 203957" src="https://github.com/SANTHAN-2006/Image_Acqusition-_using_Web_Camera/assets/80164014/7d1716b0-fcff-4238-ac1c-674e65ecd391">
+<img width="960" alt="image" src="https://github.com/SANTHAN-2006/Image_Acqusition-_using_Web_Camera/assets/80164014/96efb78c-8822-4595-bbe9-7513d4aac2e5">
 </br>
 </br>
 
 ### iii) Display the video by resizing the window
-<img width="960" alt="Screenshot 2024-02-24 204156" src="https://github.com/SANTHAN-2006/Image_Acqusition-_using_Web_Camera/assets/80164014/ec27fe21-2686-4a84-8fd3-c9febc04b4e4">
+<img width="960" alt="image" src="https://github.com/SANTHAN-2006/Image_Acqusition-_using_Web_Camera/assets/80164014/e7dd8e54-645f-4243-9831-061093653a07">
 </br>
 </br>
 
